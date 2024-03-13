@@ -1,5 +1,5 @@
-# Astro and Supabase demo
+# Decentralised Voting System for non-traceable and integrated voting process.
 
-This demo uses [Astro](https://astro.build) and [Supabase](https://supabase.com) to create a simple app showcasing the use of Supabase's auth and database features.
+Repository : https://github.com/AbdulAaqib/Voting_Blockchain
 
-Try a [live demo](https://astro-supabase-auth.vercel.app/).
+Youtube : https://youtu.be/5DXP6U-iryM
