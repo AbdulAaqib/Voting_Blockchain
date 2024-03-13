@@ -51,7 +51,7 @@ export function Reviews({ reviews }: { reviews: GuestbookEntry[] }) {
   };
 
   return (
-    <div class="max-w-3xl w-full">
+    <div className="max-w-3xl w-full">
       <ErrorBoundary fallback={<div>Something went wrong</div>}>
         <form
           onsubmit={onSubmitHandler}
